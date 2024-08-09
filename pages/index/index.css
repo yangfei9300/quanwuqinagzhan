@@ -1,0 +1,94 @@
+page{
+	background-color: #f5f5f5;
+}
+.topimg{
+	width: 750rpx;
+	height: 400rpx;
+	background-color:  #009581;
+}
+.yibu{
+	width: 60rpx;
+	height: 60rpx;
+	background-color:  #009581;
+	border-radius: 50%;
+	text-align: center;
+	color: aliceblue;
+	font-weight: bold;
+	line-height: 60rpx;
+	margin:0rpx 20rpx;
+}
+.yibu_{
+	width: 60rpx;
+	height: 60rpx;
+	background-color:  #999999;
+	border-radius: 50%;
+	text-align: center;
+	color: aliceblue;
+	font-weight: bold;
+	line-height: 60rpx;
+	margin:0rpx 20rpx;
+}
+
+.yibu1{
+	height: 70rpx;
+	border-radius: 50%;
+	text-align: center;
+	color:  #009581;
+	font-weight: bold;
+	line-height: 70rpx;
+	margin:0rpx 20rpx;
+	font-size: 25rpx;
+}
+.yibu1_{
+	height: 70rpx;
+	border-radius: 50%;
+	text-align: center;
+	color:  #999999;
+	font-weight: bold;
+	line-height: 70rpx;
+	margin:0rpx 20rpx;
+	font-size: 25rpx;
+}
+
+.fengexian{
+	width: 200rpx;
+	height: 2px;
+	background-color:  #009581;
+}
+.fengexian1{
+	width: 200rpx;
+	height: 2px;
+	background-color:  #999999;
+}
+.inputview{
+	width: 750rpx;
+	height: 100rpx;
+	background-color: white;
+}
+
+.xiayuibu{
+	width:650rpx;
+	height: 90rpx;
+	background-color:  #009581;
+	text-align: center;
+	line-height: 90rpx;
+	border-radius: 10rpx;
+	color: white;
+}
+.djck{
+	font-size: 30rpx;
+	font-weight: bold;
+	color: #009581;
+}
+.yanzhneg1{
+	line-height: 60rpx;
+	background-color: #009581;
+	color: white;
+	text-align: center;
+	font-size: 28rpx;
+	padding: 0rpx 20rpx;
+	border-radius: 10rpx;
+}
+.zhanweitxt{
+	color: #009581;font-weight: bold;margin:0rpx 10rpx;
+}
